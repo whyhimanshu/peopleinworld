@@ -1,2 +1,2 @@
-# peopleinworld
+# peopleinworld.com
 A news website.
