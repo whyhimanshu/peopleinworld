@@ -1,0 +1,2 @@
+# peopleinworld
+A news website.
